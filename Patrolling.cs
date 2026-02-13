@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class GoPlaces : MonoBehaviour
+public class Patrolling : MonoBehaviour
 {
     [SerializeField] private Transform PointParrent;
     [SerializeField] private float _speed;
